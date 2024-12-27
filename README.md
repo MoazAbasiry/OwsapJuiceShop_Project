@@ -2,5 +2,3 @@
 OwaspJuiceShop_Project
 
 
-
-##project notes
